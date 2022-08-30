@@ -3,3 +3,9 @@ Alice
 
 
 ajdfldjf
+
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+git config --global user.email "luuja4@vcu.edu"
+  git config --global user.name "Jackie777777"
